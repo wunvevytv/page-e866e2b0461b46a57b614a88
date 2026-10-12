@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3edc5923b6.pure-ep.cn/sitemap.xml
